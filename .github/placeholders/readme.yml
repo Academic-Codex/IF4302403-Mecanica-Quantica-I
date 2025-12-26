@@ -1,0 +1,12 @@
+REPO_TAGLINE: Postulates • Central Potential • Operators and Spectra
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/IF4302403-Mecanica-Quantica-I
+
+BG_1: "#0B1220"
+BG_2: "#1E3A8A"
+TEXT_MAIN: "#EFF6FF"
+TEXT_MUTED: "#BFDBFE"
+ACCENT: "#60A5FA"
+CARD_RADIUS: "18"
