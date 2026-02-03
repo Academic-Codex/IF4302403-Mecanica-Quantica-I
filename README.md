@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/IF4302403-Mecanica-Quantica-I">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:39:53.795388Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/IF4302403-Mecanica-Quantica-I?utm_source=IF4302403-Mecanica-Quantica-I&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:39:47.138535Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
